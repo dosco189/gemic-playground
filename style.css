@@ -5,4 +5,10 @@ body{
     font-size: 14px;
     line-height: 20px;
     padding: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+p{
+    margin: 0 0 10px;
 }
