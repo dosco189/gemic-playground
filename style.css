@@ -1,5 +1,5 @@
-body{
-    background-color: #000;
+body {
+    background-color: black;
     color: #fff;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
@@ -9,6 +9,11 @@ body{
     flex-wrap: wrap;
 }
 
+h1{
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0 0 10px;
+}
 p{
     margin: 0 0 10px;
 }
